@@ -1,0 +1,16 @@
+Uri: https://shopping-cart-h5u7tvjyy-sahebmohammadi.vercel.app/
+File Name: C:\Downloaded Web Sites\shopping-cart-h5u7tvjyy-sahebmohammadi.vercel.app\index.html
+Content Type: text/html
+
+Uri: https://shopping-cart-h5u7tvjyy-sahebmohammadi.vercel.app/style.css
+File Name: C:\Downloaded Web Sites\shopping-cart-h5u7tvjyy-sahebmohammadi.vercel.app\style.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css
+File Name: C:\Downloaded Web Sites\shopping-cart-h5u7tvjyy-sahebmohammadi.vercel.app\ajax\libs\font-awesome\5.15.3\css\all.min.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Lato:400,700
+File Name: C:\Downloaded Web Sites\shopping-cart-h5u7tvjyy-sahebmohammadi.vercel.app\css.css
+Content Type: text/css
+
